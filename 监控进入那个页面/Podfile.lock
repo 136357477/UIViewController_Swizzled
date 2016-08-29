@@ -1,0 +1,10 @@
+PODS:
+  - UIViewController+Swizzled (1.4)
+
+DEPENDENCIES:
+  - UIViewController+Swizzled
+
+SPEC CHECKSUMS:
+  UIViewController+Swizzled: 1cd9397598ede6930f94fbcac4b43d63c7aa0dbb
+
+COCOAPODS: 0.39.0

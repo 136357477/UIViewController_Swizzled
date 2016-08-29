@@ -1,0 +1,13 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '8.0'
+# Uncomment this line if you're using Swift
+# use_frameworks!
+
+target '监控进入那个页面' do
+pod 'UIViewController+Swizzled'
+end
+
+target '监控进入那个页面UITests' do
+
+end
+
